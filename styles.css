@@ -1,0 +1,19 @@
+body {
+    text-align:center, justify;
+    margin: 2% 30% 2% 15%;
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(255, 255, 185);    
+}
+h1 {
+    border-style: solid;
+    border-color: red;
+}
+img {
+    height: auto;
+    width: 400px;
+}
+p,
+ul,
+ol {
+    font-size: 18px;
+}
